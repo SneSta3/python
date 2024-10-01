@@ -1,0 +1,3 @@
+print ('komentari i promenljive')
+
+
