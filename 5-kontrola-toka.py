@@ -91,9 +91,9 @@ for broj in brojevi:
 
 #print(1*2)
 #print(2*2)
-#print(3*3)
-#print(4*4)
-#print(5*5)
+#print(3*2)
+#print(4*2)
+#print(5*2)
 
 #print(brojevi)
 #for i in range(1,6):
